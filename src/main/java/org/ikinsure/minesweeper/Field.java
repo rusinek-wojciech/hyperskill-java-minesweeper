@@ -1,4 +1,4 @@
-package org.ikinsure.hard.minesweeper;
+package org.ikinsure.minesweeper;
 
 public abstract class Field {
 

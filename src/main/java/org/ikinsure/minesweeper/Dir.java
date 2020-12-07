@@ -1,4 +1,4 @@
-package org.ikinsure.hard.minesweeper;
+package org.ikinsure.minesweeper;
 
 public enum Dir {
     N(0, -1),
